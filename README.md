@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YogeshGahlawat
 - 👀 I’m interested in Robotics Engineering
-- 🌱 I’m currently learning ROS basics, openCV, Machine Learning
+- 🌱 I’m currently working on ROS basics, openCV, Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through ...
 
