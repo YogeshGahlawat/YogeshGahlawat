@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @YogeshGahlawat
-- 👀 I’m interested in Robotics Engineering
-- 🌱 I’m currently working on ROS basics, openCV, Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through ...
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently working on ReactJS, Python
+- 📫 yogeshgahlawat2425@gmail.com
 
 <!---
 YogeshGahlawat/YogeshGahlawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
